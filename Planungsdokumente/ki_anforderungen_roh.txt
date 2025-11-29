@@ -1,0 +1,29 @@
+Erstelle eine Liste mit mindestens 10 möglichen funktionalen Anforderungen für eine Schüler-App, mit der Hausaufgaben organisiert und Noten verwaltet werden können.
+
+Hier ist eine strukturierte Liste mit 10 funktionalen Anforderungen für eine Schüler-App zur Organisation von Hausaufgaben und Verwaltung von Noten:
+
+📚 Hausaufgaben-Organisation
+Aufgabenverwaltung: Schüler können Hausaufgaben mit Titel, Fach, Abgabedatum und Beschreibung eintragen.
+
+Erinnerungsfunktion: Die App sendet automatische Benachrichtigungen vor Fälligkeit einer Aufgabe.
+
+Priorisierung: Aufgaben lassen sich nach Wichtigkeit oder Dringlichkeit markieren.
+
+Kalenderintegration: Alle Hausaufgaben werden in einem übersichtlichen Kalender angezeigt.
+
+Datei-Upload: Schüler können Fotos oder Dokumente zu ihren Aufgaben hochladen.
+
+📝 Notenverwaltung
+Noteneingabe: Schüler können ihre Noten pro Fach manuell eintragen oder importieren.
+
+Durchschnittsberechnung: Die App berechnet automatisch den aktuellen Notendurchschnitt pro Fach und insgesamt.
+
+Leistungsübersicht: Ein Dashboard zeigt die Entwicklung der Noten über die Zeit.
+
+Zielsetzung: Schüler können Wunschnoten festlegen und den Fortschritt dorthin verfolgen.
+
+Exportfunktion: Notenübersichten können als PDF oder Excel-Datei exportiert werden.
+
+👉 Diese Anforderungen bilden die Basis für eine praxisnahe Schüler-App, die sowohl den Alltag mit Hausaufgaben erleichtert als auch Transparenz über die eigene schulische Leistung schafft.
+
+Möchtest du, dass ich die Anforderungen auch in einer Tabellenform darstelle, damit sie noch übersichtlicher wirken?

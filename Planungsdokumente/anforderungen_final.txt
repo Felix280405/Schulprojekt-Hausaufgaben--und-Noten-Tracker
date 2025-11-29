@@ -1,0 +1,19 @@
+1. Erinnerungsfunktion: Die App sendet automatische Benachrichtigungen vor Fälligkeit einer Aufgabe.
+  	Ich finde dies wichtig, damit man seine Aufgaben nicht vergisst.
+	Aufwand: 6 Stunden
+
+2. Kalenderintegration: Alle Hausaufgaben werden in einem übersichtlichen Kalender angezeigt.
+   	Ich finde dies wichtig, da es mit einem Kalender mehr übersichtilcher gestalltet ist.
+	Aufwand: 10 Stunden
+
+3. Noteneingabe: Schüler können ihre Noten pro Fach manuell eintragen oder importieren.
+	Dies ist wichtig für das Programm, damit man als schüler ein besseren übersicht über seine Leistung hat.
+	Aufwand: 7 Stunden
+
+4. Aufgabenverwaltung: Schüler können Hausaufgaben mit Titel, Fach, Abgabedatum und Beschreibung eintragen.
+	Diese anforderung ist wichtig, damit es klarer ist um was es in den Aufgeben geht.
+	Aufwand: 6 Stunden
+
+5. Priorisierung: Aufgaben lassen sich nach Wichtigkeit oder Dringlichkeit markieren.
+	Diese Anforderung ist nützlich, damit man wichtige Aufgaben besser wahrnehemen kann.
+	Aufwand: 5 Stunden
